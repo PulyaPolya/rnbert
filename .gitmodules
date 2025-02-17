@@ -4,7 +4,7 @@
 	branch = clean
 [submodule "music_df"]
 	path = music_df
-	url = https://github.com/malcolmsailor/music_df
+	url = https://github.com/PulyaPolya/music_df.git
 [submodule "write_seqs"]
 	path = write_seqs
 	url = https://github.com/PulyaPolya/write_seqs.git
