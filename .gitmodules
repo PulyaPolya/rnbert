@@ -10,4 +10,4 @@
 	url = https://github.com/PulyaPolya/write_seqs.git
 [submodule "reprs"]
 	path = reprs
-	url = https://github.com/malcolmsailor/reprs
+	url = https://github.com/PulyaPolya/reprs.git
